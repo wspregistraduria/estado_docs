@@ -1,3 +1,3 @@
 function send(){
-    window.location = ""
+    window.location = "consulta tramite.html"
 }
